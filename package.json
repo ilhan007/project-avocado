@@ -30,5 +30,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@ui5/webcomponents": "^0.0.0-155f8e0a7",
+    "@ui5/webcomponents-fiori": "^0.0.0-155f8e0a7",
+    "@ui5/webcomponents-icons": "^0.0.0-155f8e0a7",
+    "react-router-dom": "^5.2.0"
   }
 }

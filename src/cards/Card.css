@@ -1,0 +1,7 @@
+.App-card-icon {
+	color: var(--sapContent_RatedColor);
+}
+
+.App-card-icon-2 {
+	color: var(--sapInformativeTextColor);
+}

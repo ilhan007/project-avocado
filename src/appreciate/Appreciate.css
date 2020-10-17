@@ -1,0 +1,12 @@
+:root {
+	--search_icon_hover_bg:  var(--sapList_Hover_Background);
+}
+
+.App-recognize {
+	padding: 2rem;
+	box-sizing: border-box;
+}
+
+.App-recognize-search {
+	width: 100%;
+}
